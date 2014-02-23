@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1C69F8FE-E0CB-4FFB-9DE7-74C4691D267F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>demo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F840BE09-C637-48FA-810B-F074EACBA26F</key>
+		<string>https://free1.projectlocker.com/rpg/RPG/svn/techdemos/rpgffstyle/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UIView-PartialRoundedCorner/demo/demo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F840BE09-C637-48FA-810B-F074EACBA26F</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>F840BE09-C637-48FA-810B-F074EACBA26F</key>
+		<string>https://free1.projectlocker.com/rpg/RPG/svn</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://free1.projectlocker.com/rpg/RPG/svn/techdemos/rpgffstyle/trunk/UIView-PartialRoundedCorner/demo/demo.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F840BE09-C637-48FA-810B-F074EACBA26F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F840BE09-C637-48FA-810B-F074EACBA26F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Projects</string>
+		</dict>
+	</array>
+</dict>
+</plist>
