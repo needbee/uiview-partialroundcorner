@@ -44,3 +44,9 @@ Implementation
 This class is implemented by creating a mask layer for the view, setting
 the corner radius on that, and offsetting it to the top, bottom, left,
 or right to get the appropriate effect.
+
+License
+=======
+
+This code is released under the MIT License. See the LICENSE file for
+details.
