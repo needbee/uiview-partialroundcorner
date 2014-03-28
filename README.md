@@ -1,8 +1,7 @@
 UIView+PartialRoundedCorner
 ===========================
 
-Cocoa class that allows rounding of just two corners of a UIView,
-instead of four.
+Allows rounding of just two corners of a UIView, instead of four.
 
 Demo
 ====
